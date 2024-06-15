@@ -1,0 +1,23 @@
+.pagination, .first, .last, .next, .previous, .pages {
+    cursor: pointer;
+}
+.pagination {
+    border: 1px solid #000;
+    width: fit-content;
+    border-radius: 3px;
+}
+.content {
+    padding-bottom: 10px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.main-box {
+    border: 1px solid #000;
+    width: fit-content;
+    padding: 25px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
