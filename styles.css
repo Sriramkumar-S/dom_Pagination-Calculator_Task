@@ -20,4 +20,7 @@ h1 {
     padding: 25px;
     border-radius: 10px;
     padding-top: 10px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
 }
